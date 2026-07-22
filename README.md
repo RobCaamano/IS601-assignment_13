@@ -61,3 +61,4 @@ docker-compose up -d
 Open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ## Reflection
+The biggest changes in this assignment were related to the UI, but I decided to focus on the JavaScript and backend. I especially focused on the backend API structure, including dependencies on user auth and the database connection. I didn't have any major issues this time as I migrated my previous PyJWT implementation and upgraded the packages in requirements.txt before pushing to GitHub. With those changes the pytest and security checks passed, enabling the image to be pushed to dockerhub.
