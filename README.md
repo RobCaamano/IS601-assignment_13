@@ -7,11 +7,11 @@
 
 || |
 |---| --- |
-| Browse | <img src="screenshots/playwright_tests.png" alt="Browse" width="900"/> |
-| Read | <img src="screenshots/registration.png" alt="Reade" width="900"/> |
-| Edit | <img src="screenshots/login.png" alt="Edit" width="900"/> |
-| Add | <img src="screenshots/home.png" alt="Add" width="900"/> |
-| Delete | <img src="screenshots/home.png" alt="Delete" width="900"/> |
+| Browse | <img src="screenshots/browse_calculations.png" alt="Browse" width="900"/> |
+| Read | <img src="screenshots/read_calculation.png" alt="Reade" width="900"/> |
+| Edit | <img src="screenshots/edit_calculation.png" alt="Edit" width="900"/> |
+| Add | <img src="screenshots/add_calculation.png" alt="Add" width="900"/> |
+| Delete | <img src="screenshots/delete_calculation.png" alt="Delete" width="900"/> |
 | GitHub Actions Workflow | <img src="screenshots/github_actions.png" alt="GitHub Actions Workflow" width="900"/> |
 | Docker Hub Deployment | <img src="screenshots/dockerhub_deployment.png" alt="Docker Hub Deployment" width="900"/> |
 
